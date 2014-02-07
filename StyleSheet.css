@@ -94,7 +94,7 @@ a[href="#menu"]
 #pre
 {
 	  position: absolute;
-    background-image: url("bg.jpg");
+    background-image: url("bg_ss.jpg");
     background-size: contain;
     width: 600px;
     height: 220px;
@@ -106,7 +106,7 @@ a[href="#menu"]
 {
     width: 80px;
     height: 80px;
-    background-image: url("cuihua.jpg");
+    background-image: url("cuihua_ss.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     border-color: gray;
